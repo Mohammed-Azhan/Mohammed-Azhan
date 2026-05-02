@@ -37,36 +37,32 @@ Here are some ideas to get you started:
 
 ## ⚡ Tech Stack
 
+
 ### 💻 Frontend
-<img height="50" width="50" src="https://img.icons8.com/color/48/react-native.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/nextjs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/html-5--v1.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/css3.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/tailwindcss.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,next,html,css,tailwind" />
+</p>
 
 ---
 
 ### ⚙️ Backend
-<img height="50" width="50" src="https://img.icons8.com/color/48/nodejs.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/express.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/php.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/laravel.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+</p>
 
 ---
 
 ### 🗄 Database
-### 🗄 Database
-<img height="50" width="50" src="https://img.icons8.com/color/48/mongodb.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/sqlite.png"/>
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/supabase.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,supabase" />
+</p>
 
 ---
 
 ### 🤖 Machine Learning
-<img height="50" width="50" src="https://img.icons8.com/color/48/python.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png"/>
-<img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ---
 
