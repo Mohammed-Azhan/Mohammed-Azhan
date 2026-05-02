@@ -90,7 +90,9 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Azhan&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Azhan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohammed-Azhan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammed-Azhan&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
