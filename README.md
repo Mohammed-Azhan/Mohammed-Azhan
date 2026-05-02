@@ -59,26 +59,19 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤖 Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
----
-
 ## 🔥 Projects
-
-### 🚀 URL Shortener
-- 🔗 Live: https://shortner-nu.vercel.app/
-- 💡 Description: Converts long URLs into short links with clean UI
-- ⚙️ Tech: MERN Stack
-
----
 
 ### 🤖 GetSummary AI App
 - 🔗 Live: https://www.getsummaryapp.com/
 - 💡 Description: AI-powered text summarization platform RAG.
 - ⚙️ Tech: React + Node + AI APIs
+
+---
+
+### 🚀 URL Shortener
+- 🔗 Live: https://shortner-nu.vercel.app/
+- 💡 Description: Converts long URLs into short links with clean UI
+- ⚙️ Tech: MERN Stack
 
 ---
 
